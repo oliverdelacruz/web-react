@@ -7,7 +7,7 @@ This projects follows the React to React tutorial for frontend web development.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Prerequisites
-Install npm packages on your 
+Install npm packages on your computer.
 
 ## User installation
 1. Install npm package
