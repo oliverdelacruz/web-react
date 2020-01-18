@@ -1,4 +1,32 @@
+# Simple WebApp - React
+
+This projects follows the React to React tutorial for frontend web development.
+
+## Description
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Prerequisites
+Install npm packages on your 
+
+## User installation
+1. Install npm package
+    ```
+    npx create-react-app my-app
+    ```
+2. Change directory
+    ```
+    cd my-app
+    ```
+3. Clone git repository
+    ```
+    git clone https://github.com/oliverdelacruz/web-react.git
+    ```
+
+3. Run the command 
+    ```
+    npm start
+    ```   
 
 ## Available Scripts
 
