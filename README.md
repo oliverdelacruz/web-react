@@ -12,7 +12,7 @@ Install npm packages on your computer.
 ## User installation
 1. Install npm package
     ```
-    npx create-react-app my-app
+    npm install npm@latest -g
     ```
 2. Change directory
     ```
